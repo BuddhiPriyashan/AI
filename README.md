@@ -13,14 +13,6 @@ GenAI frameworks for enterprise applications:
 
 ![{2CCEF3CC-ACC5-4154-9D92-DD05611CDA90}](https://github.com/user-attachments/assets/daa7196d-4213-41e3-bd66-935b4a5707b3)
 
-Steps to deploy Firebase Genkit app with Firebase:
-1. Initialize the plugin
-2. Define flows
-3. Test flows locally
-4. Deploy application
-5. Monitor applicaitons
-![{4E6119F5-B362-49A6-B535-357FDF0E7EC3}](https://github.com/user-attachments/assets/d322f58d-31e6-4556-95ae-2028cf2aff8d)
-
 What is LangChain & When to use LangChain:
  - Combine LLM to other components (ex. agents, memory stores) to build complex workflows
  - Vertex AI Reasoning Engine hosts LangChain
@@ -31,7 +23,18 @@ What is LangChain & When to use LangChain:
 What is Firebase Genkit:
 ![{27BE6B90-5BE8-4754-AB5F-64FDF46510F6}](https://github.com/user-attachments/assets/de9ee1ba-46d6-455f-8247-a3f62b8223dc)
 
-![{41343C1F-B501-4046-A10A-D29A1014DA2E}](https://github.com/user-attachments/assets/b3ed0b6c-edea-4723-868e-1e01fbbaffa2)
+Steps to deploy Firebase Genkit app with Firebase:
+1. Initialize the plugin
+2. Define flows
+3. Test flows locally
+4. Deploy application
+5. Monitor applicaitons
+
+![{9ED01F3E-242A-461E-AB57-6C07A9E7C336}](https://github.com/user-attachments/assets/add29a92-88bf-41b9-9ab7-61b22b0f72f3)
+
+![{4E6119F5-B362-49A6-B535-357FDF0E7EC3}](https://github.com/user-attachments/assets/d322f58d-31e6-4556-95ae-2028cf2aff8d)
+
+Use Genkit to create apps that generate custom content, use semantic search, handle unstructured inputs, answer questions with your business data, autonomously make decisions, orchestrate tool calls, and much more.
 
 
 
