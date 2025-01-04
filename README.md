@@ -20,3 +20,23 @@ Steps to deploy Firebase Genkit app with Firebase:
 4. Deploy application
 5. Monitor applicaitons
 ![{4E6119F5-B362-49A6-B535-357FDF0E7EC3}](https://github.com/user-attachments/assets/d322f58d-31e6-4556-95ae-2028cf2aff8d)
+
+What is LangChain & When to use LangChain:
+ - Combine LLM to other components (ex. agents, memory stores) to build complex workflows
+ - Vertex AI Reasoning Engine hosts LangChain
+![{22F0F081-F9CC-4B72-8EAA-D54F402A35C4}](https://github.com/user-attachments/assets/8eb6dab4-268f-481c-8c2b-18ef25b3147f)
+
+![{F26EEEA0-AA15-4A29-99FE-2A2EA61201DD}](https://github.com/user-attachments/assets/333efd56-a5ba-4715-9d2f-c94d7a2ca3e6)
+
+What is Firebase Genkit:
+![{27BE6B90-5BE8-4754-AB5F-64FDF46510F6}](https://github.com/user-attachments/assets/de9ee1ba-46d6-455f-8247-a3f62b8223dc)
+
+![{41343C1F-B501-4046-A10A-D29A1014DA2E}](https://github.com/user-attachments/assets/b3ed0b6c-edea-4723-868e-1e01fbbaffa2)
+
+
+
+
+
+
+
+
