@@ -1,0 +1,40 @@
+Create a new Firebase Genkit project in your Cloud Shell environment.
+Create flows with Genkit and Gemini Flash.
+Create prompts with Dotprompt to provide structured input.
+Use the local Genkit developer UI.
+Explore flow and prompt traces in the Genkit development UI.
+
+#Step 1 - In Cloud Shell, to install the Genkit CLI
+npm install -g genkit@0.5.17
+echo "genkit version $(genkit --version)"
+
+student_03_505e086c9b41@cloudshell:~/genkit-intro (qwiklabs-gcp-02-95e1758d8018)$ history 
+    1  npm install -g genkit@0.5.17
+    2  echo "genkit version $(genkit --version)"
+    3  genkit --version
+    4  export GCLOUD_PROJECT=qwiklabs-gcp-02-95e1758d8018
+    5  export GCLOUD_LOCATION=us-east1
+    6  echo $GCLOUD_LOCATION
+    7  gcloud auth application-default login in
+    8  gcloud auth application-default login 
+    9  mkdir genkit-intro
+   10  cd genkit-intro/
+   11  npm init
+   12  npm init -y
+   13  genkit init
+   14  cat src/index.ts | grep region
+   15  cat src/index.ts | grep -r region
+   16  clear
+   17  ls
+   18  cat src/index.ts 
+   19  cat src/index.ts | grep location
+   20  sed -i 's/us-central1/us-east1/g' ~/genkit-intro/src/index.ts 
+   21  cat src/index.ts | grep location
+   22  ls
+   23  vi package.json 
+   24  vi src/index.ts 
+   25  ls
+   26  gcloud storage cp ~/genkit-intro/package.json gs://qwiklabs-gcp-02-95e1758d8018
+   27  gcloud storage cp ~/genkit-intro/src/index.ts gs://qwiklabs-gcp-02-95e1758d8018
+
+
