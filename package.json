@@ -1,0 +1,28 @@
+{
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "name": "genkit-intro",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@genkit-ai/ai": "^0.5.17",
+    "@genkit-ai/core": "^0.5.17",
+    "@genkit-ai/dotprompt": "^0.5.17",
+    "@genkit-ai/flow": "^0.5.17",
+    "@genkit-ai/vertexai": "^0.5.17",
+    "express": "^4.21.2",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
